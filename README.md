@@ -1,5 +1,5 @@
 # Calculator-using-HTML & CSS
-In this JavaScript Calculator Project, we will first create the UI design of Calculator using HTML and CSS. we will add the functionality to the calculator. 
+In this Calculator Project, we will first create the UI design of Calculator using HTML and CSS. we will add the functionality to the calculator. 
 🔍 What you'll learn:
 1. HTML Structure: We'll start by setting up the basic HTML structure to create the foundation for our calculator. Learn how to organize your code for maximum efficiency and readability.
 
